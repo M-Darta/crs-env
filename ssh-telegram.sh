@@ -1,5 +1,5 @@
-USERID="ID"
-KEY="KEY"
+USERID=ID
+KEY=KEY
 TIMEOUT="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 DATE_EXEC="$(date "+%d %b %Y %H:%M")"
